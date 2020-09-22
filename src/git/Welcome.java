@@ -1,7 +1,5 @@
 package git;
-ppackage git_demo;
-
-public class helloworld {
+public class Welcome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
