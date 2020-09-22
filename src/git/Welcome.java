@@ -1,10 +1,11 @@
 package git;
+ppackage git_demo;
 
-public class Helloworld {
+public class helloworld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("¹·×ÓÊÇÉµ±Æ");
+		System.out.println("Welcome to Java!");
 	}
 
 }
